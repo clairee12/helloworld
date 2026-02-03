@@ -10,8 +10,6 @@ double findArea(double side, char) {
     char shape;
     double side;
     double area = 0;
-
-
     cout << "what shape is your object? " << endl;
     cin >> shape;
 
@@ -27,6 +25,11 @@ double findArea(double side, char) {
     return area;
 
 }
+
+
+
+
+
 int main() {
     
     return 0;
