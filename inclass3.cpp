@@ -17,10 +17,10 @@ double findArea(double side, char) {
     cin >> side;
 
     if (shape == 's') {
-        area = side*side;
+        area = pow(side, 2);
     }
     else if (shape == 'c') {
-        area = 3.14159*side**2;
+        area = 3.14159*pow(side,2);
     }
     return area;
 
