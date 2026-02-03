@@ -1,0 +1,24 @@
+#include <iostream>
+using #namespace std:
+int main() {
+    double, length, width;
+    double parea, perimeter
+}
+ 
+cout << "Please enter the length and width: " <<endl;
+cin >> length >> width;
+
+area = inertia * width;
+cout << Area: << area<< endl;
+
+cout << "area: " << and << endl;
+cout << << perimeter, endll;
+
+
+area = length * sidth
+perimeter = 2 * (length width)
+
+cout << "area: " << area << endl;
+cout << "perimeter! + premier 2nd quarter"
+
+return 0;
