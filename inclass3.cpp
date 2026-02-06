@@ -10,8 +10,8 @@ double findArea(double side, char) {
     char shape;
     double side;
     double area = 0;
-    cout << "what shape is your object? " << endl;
-    cin >> shape;
+    cout << "what shape is your object? " << endl; //only good for main not here!!!
+    cin >> shape;                                  //only good for main not here!!!    
 
     cout << "What is your side length"
     cin >> side;
@@ -33,4 +33,3 @@ double findArea(double side, char) {
 int main() {
     
     return 0;
-}
